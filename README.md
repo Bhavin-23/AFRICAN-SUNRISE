@@ -7,7 +7,7 @@ AFRICAN SUNRISE is a professional, responsive business website showcasing indust
 
 ## 🌟 Live Preview
 
-> [🔗 View Website (Demo Link)](https://your-demo-link.com)  
+> [🔗 View Website (Demo Link)]([https://your-demo-link.com](https://bhavin-23.github.io/AFRICAN-SUNRISE/about.html))  
 
 ---
 
